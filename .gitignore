@@ -1,0 +1,6 @@
+build/
+dist/
+.venv/
+*.xlsx
+*.spec
+__pycache__/
